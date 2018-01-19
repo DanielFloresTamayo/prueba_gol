@@ -1,1 +1,1 @@
-# prueba_gol
+La pequeña aplicación, describe el mivimiento de un balon, dentro de una cancha, el objetivo de esto es anotar un gol dentro de la porteria y un mensaje que indique el gol. El balon se movera con una funcion simple, que incluyen las teclas demovimiento. Hasta llegar en un punto definido dentro de la pantalla, las coordenadas se imprimiran en consola y daran la posición del balon.
